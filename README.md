@@ -2,4 +2,4 @@
 
 podéis visitar mi web en el siguiente enlace: https://llosefer.github.io/delaura/
 
-podéis visitar mi web en el siguiente enlace: <a href="https://llosefer.github.io/delaura" target="_blank">Web de Laura en GitHub</a>.
+podéis visitar mi web en el siguiente enlace: <a href="https://llosefer.github.io/delaura" target="_blank">Nombre del enlace</a>.
