@@ -1,4 +1,4 @@
-let miImage = document.querySelector('img');
+let miImage = document.querySelector('img#swap');
 miImage.onclick = function () {
     let miSrc = miImage.getAttribute('src');
     if (miSrc === 'images/a.jpg') {
