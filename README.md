@@ -26,7 +26,7 @@ ruta nueva:   en GitHub
                                              images/b.jpg
 
 
-Para que se cambien las imágenes hay que crear lo que se llama un Contenedor y eso se hace metiendo: <img src="images/a.jpg" alt="berries" id="swap">   (he puesto berries como texto alternativo pero se puede poner lo que se quiera)
+Para que se cambien las imágenes hay que crear lo que se llama un Contenedor y eso se hace metiendo: "<img src="images/a.jpg" alt="berries" id="swap">"  (he puesto berries como texto alternativo pero se puede poner lo que se quiera)
 
 esto mete la imagen "a.jpg" y le pone un identificador que le hemos llamado "swap" y en el script de JS ponemos:
 
