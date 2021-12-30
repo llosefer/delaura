@@ -2,7 +2,7 @@
 
 podéis visitar mi web en el siguiente enlace: https://llosefer.github.io/delaura/
 
-<!-- 
+ 
 Para que aparezca el nombre:
 
 en github ya está solucionado, no aparecía porque en el html, al final de todo no se puso bien la ruta:
@@ -41,4 +41,3 @@ miImage.onclick = function () {
 }
 
 aquí en el fichero viejo ponía 'img' y ahora pone 'img más el identificador swap y se unen con la almohadilla. El resto queda igual pero cambiamos la ruta de las imágenes para que eh GitHub sepa que las imágenes están en la carpeta "Images" 
--->
